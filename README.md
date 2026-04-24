@@ -80,8 +80,3 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyavarshinig15&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
