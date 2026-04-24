@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Vidyavarshini+G+%F0%9F%91%8B;Computer+Science+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Vidyavarshini+G" alt="Typing SVG" />
   </a>
   <p><i>Building with focus, unfazed by bugs. 🚀</i></p>
 </div>
@@ -27,6 +27,8 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 *Vidyavardhaka College of Engineering, Mysuru*
 **CGPA:** 8.67
 
+* Coordinator - Hackkshetra Hackathon
+
 ---
 
 ## 🏆 Achievements & Leadership
@@ -35,30 +37,12 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 * **1st Place**, Web Development Competition, DEVCOM
 * **2nd Place**, IIC Idea Generation Competition
 * **3rd Place**, IIC Mini Project Competition
-* **Coordinator**, Hackkshetra Hackathon
+
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vidyavarshini1512/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/vidyavarshinig15">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/vidya_v15/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:vidyavarshinig15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
+  ## 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -84,3 +68,21 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 </p>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vidyavarshini1512/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/vidyavarshinig15">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/vidya_v15/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:vidyavarshinig15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
