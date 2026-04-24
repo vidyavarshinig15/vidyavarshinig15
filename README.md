@@ -9,7 +9,7 @@
 
 <div align="center">
 
-Hi, I'm **Vidyavarshini G** — an enthusiastic Computer Science Engineering undergraduate (graduating in 2027) from Mysuru, India 🇮🇳. I specialize in **Software Development, Web Technologies, and Cybersecurity**. I enjoy building scalable, secure, and user-focused systems that create meaningful, real-world impact.
+Hi, I'm **Vidyavarshini G**—an enthusiastic Computer Science Engineering undergraduate (graduating in 2027)from Mysuru, India 🇮🇳. I specialize in **Software Development, Web Technologies, and Cybersecurity**. I enjoy building scalable, secure, and user-focused systems that create meaningful, real-world impact.
 
 With a strong foundation in **Data Structures, Algorithms, and Operating Systems**, I love bringing ideas to life — from AI-powered healthcare tools to cultural preservation and assistive technology solutions.
 
