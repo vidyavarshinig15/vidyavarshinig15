@@ -11,7 +11,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I am a B.E. Computer Science undergrad at Vidyavardhaka College of Engineering with a passion for building AI-integrated projects across the Software Development Lifecycle. I enjoy leveraging modern tools like **React, Next.js, and Supabase** alongside **OpenAI APIs** and advanced prompt engineering frameworks.
+I am a B.E. Computer Science undergrad at Vidyavardhaka College of Engineering with a passion for building AI-integrated projects across the Software Development Lifecycle. I enjoy leveraging modern tools alongside **OpenAI APIs**.
 
 - 💡 Actively exploring **agentic AI** to build functional, accessible solutions like healthcare assistants and mental wellness applications.
 - ⚡ **Goal:** To deliver well-documented, impactful software that solves real-world problems.
