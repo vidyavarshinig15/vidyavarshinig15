@@ -1,4 +1,13 @@
-## 💫 Hi There
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Vidyavarshini+G+%F0%9F%91%8B;Computer+Science+Student" alt="Typing SVG" />
+  </a>
+  <p><i>Building with focus, unfazed by bugs. 🚀</i></p>
+</div>
+
+---
+
+<div align="center">
 
 Hi, I'm **Vidyavarshini G** — an enthusiastic Computer Science Engineering undergraduate (graduating in 2027) from Mysuru, India 🇮🇳. I specialize in **Software Development, Web Technologies, and Cybersecurity**. I enjoy building scalable, secure, and user-focused systems that create meaningful, real-world impact.
 
@@ -6,7 +15,7 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 
 <br>
 <div align="center">
-  <img src="https://github.com/mahi0331/mahi0331/raw/main/assets/coding.gif" width="100%" alt="Pixel Art Coding Room" />
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="50%" alt="Pixel Art Coding Room" />
 </div>
 <br>
 
@@ -18,12 +27,7 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 *Vidyavardhaka College of Engineering, Mysuru*
 **CGPA:** 8.67
 
-* Coordinator - Hackkshetra Hackathon
-* Volunteer - Culture Club & National Service Scheme (NSS)
-
 ---
-
-
 
 ## 🏆 Achievements & Leadership
 
@@ -31,6 +35,7 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 * **1st Place**, Web Development Competition, DEVCOM
 * **2nd Place**, IIC Idea Generation Competition
 * **3rd Place**, IIC Mini Project Competition
+* **Coordinator**, Hackkshetra Hackathon
 
 ---
 
@@ -79,4 +84,3 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 </p>
 
 ---
-
