@@ -25,7 +25,7 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 
 🎓 **B.E. in Computer Science**
 *Vidyavardhaka College of Engineering, Mysuru*
-**CGPA:** 8.67
+**CGPA:** 8.82
 
 * Coordinator - Hackkshetra Hackathon
 
