@@ -46,8 +46,6 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 <!-- Languages -->
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -59,7 +57,7 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
 
 
 
@@ -90,17 +88,13 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 <img src="https://img.shields.io/badge/Computer_Networks-0052CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software_Architecture-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design_Patterns-673AB7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/State_Machines-009688?style=for-the-badge"/>
 
 
 <!-- DevOps -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -108,7 +102,6 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 <!-- IDE -->
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
 
 
 <!-- Testing -->
@@ -124,18 +117,6 @@ With a strong foundation in **Data Structures, Algorithms, and Operating Systems
 <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-
-
-<!-- Hardware & Performance -->
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/cuDNN-76B900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCL-5586A4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GPU_Computing-76B900?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-5E35B1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Image_Processing-3F51B5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neural_Networks-E91E63?style=for-the-badge"/>
 
 ---
 
